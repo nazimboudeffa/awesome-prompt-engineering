@@ -1,3 +1,7 @@
 # Awesome Prompt Engineering
 
-* https://dalle2.gallery
+## SCRIPTS
+
+- https://github.com/techleadhd/chatgpt-retrieval
+- https://github.com/nicknochnack/Langchain-Crash-Course
+
